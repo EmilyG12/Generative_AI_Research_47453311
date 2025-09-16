@@ -10,8 +10,8 @@
 ├── Proposal_Drafts
 └── References
 README.md
-final_paper_vStar
-final_proposal
+final_paper_vStar.docx
+final_proposal.docx
 submitted_paper.pdf
 ```
 
